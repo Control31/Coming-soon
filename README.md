@@ -3,7 +3,7 @@
 ## Purpose
 This is a site to count down to the release of a new app or website.
 #### URL
-[https://MASikka.github.io/Coming-soon/](https://control31.github.io/Coming-soon/)
+[https://MASikka.github.io/Coming-soon/](https://MASikka.github.io/Coming-soon/)
 
 ## Features
 The website features:
